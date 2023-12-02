@@ -1,3 +1,5 @@
+//Store 5 numbers in array and sort it in ascending order
+
 #include<stdio.h>
 main()
 {
